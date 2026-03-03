@@ -316,10 +316,10 @@ function showConnectScreen() {
   <div class="subtitle">by Azteca</div>
   <div class="instructions">
     <div class="step">Para conectar tu cuenta:</div>
-    <div class="step">1. Haz clic en el boton de abajo</div>
-    <div class="step">2. Haz clic en <strong>"Conectar mi cuenta"</strong></div>
-    <div class="step">3. Quick se conectara automaticamente</div>
-    <a class="link" href="https://aztecaapp.com?quick=connect" target="_blank">Conectar cuenta</a>
+    <div class="step">1. Abre <strong>aztecaapp.com</strong> en tu navegador</div>
+    <div class="step">2. Presiona el <strong>rayito ⚡</strong> abajo a la derecha</div>
+    <div class="step">3. Haz clic en <strong>"Conectar mi cuenta"</strong></div>
+    <a class="link" href="https://aztecaapp.com" target="_blank">Abrir aztecaapp.com</a>
   </div>
   <div class="shortcut">${shortcut} para abrir/cerrar</div>
 </body>
